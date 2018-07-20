@@ -26,7 +26,6 @@
 *.log
 *.sql
 *.sqlite
-*.pkl
 *.bak
 *.npy
 *.npz
@@ -71,9 +70,6 @@ data
 *.html
 *.inv
 *.js
-*.txt
-*wikimodel*
-*gath*
 *.mat
 *.xlsx
 /venv/
